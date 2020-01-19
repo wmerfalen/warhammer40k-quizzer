@@ -17,3 +17,7 @@
 			- krak nade
 	- Quiz wound roll
 	- Quiz fight phase skills
+	- Loading skill points from file
+		- This is due to GW's preference to not publish skill points
+## current version
+- 1.0
